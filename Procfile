@@ -1,1 +1,1 @@
-worker python main.py
+worker python main.py TetCult Wudjer m1nesan bratiskinoff Murzofix dangerlyoha belko
